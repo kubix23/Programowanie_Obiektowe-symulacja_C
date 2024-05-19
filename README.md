@@ -1,13 +1,13 @@
-# Life symulation
+# Life simulation
 
 ## Run
 
 Use PO1.sin with Visual Studio. **Program created on windows, 
 due to some console commands may not work on other systems.**
 
-## Descriptoion
+## Description
 
-This repository contains a program that simulates lives of animals and plants. All of these have self statistics.
+This repository contains a program that simulates livesÂ of animals and plants. All of these have self statistics.
 Player can move on board using arrows. If collision occurs, compare the object statistics, and one of these is removed.
 
 ## Rules
@@ -36,7 +36,7 @@ Player can move on board using arrows. If collision occurs, compare the object s
 
 ## Player
 
-- Arrows: movment
+- Arrows: movement
 - Esc: stop game
 - Key Q: use skill
 - Key U: save game
